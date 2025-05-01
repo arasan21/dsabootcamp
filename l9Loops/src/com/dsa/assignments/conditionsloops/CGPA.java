@@ -1,4 +1,4 @@
-package com.dsa.assignments;
+package com.dsa.assignments.conditionsloops;
 
 import java.util.Iterator;
 import java.util.Scanner;
