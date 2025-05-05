@@ -3,7 +3,8 @@ package com.dsa.array;
 public class GoodPairs {
 
 	public static void main(String[] args) {
-		int[] nums = {1,2,3,1,1,3};
+//		int[] nums = {1,2,3,1,1,3};
+		int[] nums = {1,1,1,1};
 		System.out.println(numIdenticalPairs(nums));
 	}
 	
