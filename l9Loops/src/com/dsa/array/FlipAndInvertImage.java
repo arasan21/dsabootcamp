@@ -1,7 +1,6 @@
 	package com.dsa.array;
 
 import java.util.Arrays;
-import java.util.Iterator;
 
 public class FlipAndInvertImage {
 
